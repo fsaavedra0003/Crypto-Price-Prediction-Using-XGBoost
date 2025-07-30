@@ -1,6 +1,6 @@
 # 📊 Crypto Price Prediction using XGBoost
 
-This project uses machine learning (XGBoost Regressor) to predict cryptocurrency prices — including **Bitcoin (BTC)**, **Ethereum (ETH)**, and **Solana (SOL)** — based on historical price data and technical indicators.
+This project uses machine learning (XGBoost Regressor) to predict cryptocurrency prices — including **Bitcoin (BTC)**, **Ethereum (ETH)**, and **Solana (SOL)** — based on historical price data and technical indicators fetched.
 
 ---
 
